@@ -1,0 +1,332 @@
+[2025-12-13 01:37:38 advbin2deepsign3pkl] (evaluate_stylus.py 30): INFO skilled forgery
+[2025-12-13 01:37:38 advbin2deepsign3pkl] (evaluate_stylus.py 31): INFO epoch: 39
+[2025-12-13 01:37:41 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 01:37:43 advbin2deepsign3pkl] (evaluate_stylus.py 53): INFO Computing MCYT
+[2025-12-13 01:38:21 advbin2deepsign3pkl] (evaluate_stylus.py 30): INFO skilled forgery
+[2025-12-13 01:38:21 advbin2deepsign3pkl] (evaluate_stylus.py 31): INFO epoch: 39
+[2025-12-13 01:38:24 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 01:38:26 advbin2deepsign3pkl] (evaluate_stylus.py 53): INFO Computing MCYT
+[2025-12-13 01:38:53 advbin2deepsign3pkl] (evaluate_stylus.py 90): INFO Computing BiosecurID
+[2025-12-13 01:39:20 advbin2deepsign3pkl] (evaluate_stylus.py 126): INFO Computing Biosecure DS2
+[2025-12-13 01:39:51 advbin2deepsign3pkl] (evaluate_stylus.py 168): INFO Computing eBS DS2 w2
+[2025-12-13 01:39:56 advbin2deepsign3pkl] (evaluate_stylus.py 206): INFO Computing eBS DS1 w1
+[2025-12-13 01:39:59 advbin2deepsign3pkl] (evaluate_stylus.py 243): INFO Computing eBS DS1 w2
+[2025-12-13 01:40:02 advbin2deepsign3pkl] (evaluate_stylus.py 277): INFO Computing eBS DS1 w3
+[2025-12-13 01:40:05 advbin2deepsign3pkl] (evaluate_stylus.py 311): INFO Computing eBS DS1 w4
+[2025-12-13 01:40:08 advbin2deepsign3pkl] (evaluate_stylus.py 346): INFO Computing eBS DS1 w5
+[2025-12-13 01:40:12 advbin2deepsign3pkl] (verify_stylus.py 75): INFO 4 templates
+[2025-12-13 01:40:12 advbin2deepsign3pkl] (verify_stylus.py 99): INFO For MCYT:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 214): INFO Global threshold: 2.32609, Local threshold: 1.21267
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 226): INFO For BiosecurID:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 337): INFO Global threshold: 1.32576, Local threshold: 0.31566
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 349): INFO For Biosecure DS2:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 461): INFO Global threshold: 2.86607, Local threshold: 1.43027
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 473): INFO For eBS DS2 w2:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 585): INFO Global threshold: 0.71429, Local threshold: 0.00000
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 591): INFO For eBS DS1 w1:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 702): INFO Global threshold: 4.28571, Local threshold: 0.00000
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 708): INFO For eBS DS1 w2:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 819): INFO Global threshold: 3.80952, Local threshold: 0.00000
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 825): INFO For eBS DS1 w3:
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 936): INFO Global threshold: 5.14286, Local threshold: 1.66667
+[2025-12-13 01:40:13 advbin2deepsign3pkl] (verify_stylus.py 942): INFO For eBS DS1 w4:
+[2025-12-13 01:40:14 advbin2deepsign3pkl] (verify_stylus.py 1054): INFO Global threshold: 4.85714, Local threshold: 2.66667
+[2025-12-13 01:40:14 advbin2deepsign3pkl] (verify_stylus.py 1060): INFO For eBS DS1 w5:
+[2025-12-13 01:40:14 advbin2deepsign3pkl] (verify_stylus.py 1171): INFO Global threshold: 5.23810, Local threshold: 2.38095
+[2025-12-13 01:40:14 advbin2deepsign3pkl] (verify_stylus.py 1177): INFO Overall EER under global threshold: 2.60970
+[2025-12-13 01:40:14 advbin2deepsign3pkl] (verify_stylus.py 1180): INFO Overall EER under user-specific threshold: 1.02779
+[2025-12-13 01:40:15 advbin2deepsign3pkl] (verify_stylus.py 78): INFO 1 template
+[2025-12-13 01:40:15 advbin2deepsign3pkl] (verify_stylus.py 99): INFO For MCYT:
+[2025-12-13 01:40:16 advbin2deepsign3pkl] (verify_stylus.py 214): INFO Global threshold: 4.18629, Local threshold: 2.24499
+[2025-12-13 01:40:16 advbin2deepsign3pkl] (verify_stylus.py 226): INFO For BiosecurID:
+[2025-12-13 01:40:17 advbin2deepsign3pkl] (verify_stylus.py 337): INFO Global threshold: 2.05966, Local threshold: 0.66288
+[2025-12-13 01:40:17 advbin2deepsign3pkl] (verify_stylus.py 349): INFO For Biosecure DS2:
+[2025-12-13 01:40:19 advbin2deepsign3pkl] (verify_stylus.py 461): INFO Global threshold: 4.94823, Local threshold: 2.05306
+[2025-12-13 01:40:19 advbin2deepsign3pkl] (verify_stylus.py 473): INFO For eBS DS2 w2:
+[2025-12-13 01:40:19 advbin2deepsign3pkl] (verify_stylus.py 585): INFO Global threshold: 3.33333, Local threshold: 1.42857
+[2025-12-13 01:40:19 advbin2deepsign3pkl] (verify_stylus.py 591): INFO For eBS DS1 w1:
+[2025-12-13 01:40:19 advbin2deepsign3pkl] (verify_stylus.py 702): INFO Global threshold: 6.39286, Local threshold: 1.54762
+[2025-12-13 01:40:19 advbin2deepsign3pkl] (verify_stylus.py 708): INFO For eBS DS1 w2:
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 819): INFO Global threshold: 5.11905, Local threshold: 1.01190
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 825): INFO For eBS DS1 w3:
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 936): INFO Global threshold: 6.72619, Local threshold: 2.91667
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 942): INFO For eBS DS1 w4:
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 1054): INFO Global threshold: 7.89286, Local threshold: 3.03571
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 1060): INFO For eBS DS1 w5:
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 1171): INFO Global threshold: 6.54762, Local threshold: 1.84524
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 1177): INFO Overall EER under global threshold: 4.30748
+[2025-12-13 01:40:20 advbin2deepsign3pkl] (verify_stylus.py 1180): INFO Overall EER under user-specific threshold: 1.73871
+[2025-12-13 01:40:21 advbin2deepsign3pkl] (evaluate_finger.py 31): INFO skilled forgery
+[2025-12-13 01:40:24 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 01:40:24 advbin2deepsign3pkl] (evaluate_finger.py 51): INFO Computing eBS DS1 w4, finger inputs
+[2025-12-13 01:40:26 advbin2deepsign3pkl] (evaluate_finger.py 88): INFO Computing eBS DS1 w5, finger inputs
+[2025-12-13 01:40:29 advbin2deepsign3pkl] (evaluate_finger.py 132): INFO Computing eBS DS2 w5, finger inputs
+[2025-12-13 01:40:31 advbin2deepsign3pkl] (evaluate_finger.py 169): INFO Computing eBS DS2 w6, finger inputs
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 68): INFO 4 templates
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 11.90476, Local threshold: 8.09524
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 324): INFO Global threshold: 10.00000, Local threshold: 6.90476
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 330): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 441): INFO Global threshold: 2.14286, Local threshold: 1.42857
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 447): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 558): INFO Global threshold: 3.57143, Local threshold: 0.71429
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 564): INFO Overall EER under global threshold: 6.96429
+[2025-12-13 01:40:34 advbin2deepsign3pkl] (verify_finger.py 567): INFO Overall EER under user-specific threshold: 4.28571
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 71): INFO 1 template
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 16.63265, Local threshold: 10.29762
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 324): INFO Global threshold: 15.00000, Local threshold: 12.12075
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 330): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 441): INFO Global threshold: 5.95238, Local threshold: 1.92857
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 447): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 558): INFO Global threshold: 7.39286, Local threshold: 1.25000
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 564): INFO Overall EER under global threshold: 11.44133
+[2025-12-13 01:40:36 advbin2deepsign3pkl] (verify_finger.py 567): INFO Overall EER under user-specific threshold: 6.39923
+[2025-12-13 01:40:37 advbin2deepsign3pkl] (evaluate_stylus.py 30): INFO random forgery
+[2025-12-13 01:40:37 advbin2deepsign3pkl] (evaluate_stylus.py 31): INFO epoch: 39
+[2025-12-13 01:40:40 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 01:40:42 advbin2deepsign3pkl] (evaluate_stylus.py 53): INFO Computing MCYT
+[2025-12-13 01:41:36 advbin2deepsign3pkl] (evaluate_stylus.py 90): INFO Computing BiosecurID
+[2025-12-13 01:43:07 advbin2deepsign3pkl] (evaluate_stylus.py 126): INFO Computing Biosecure DS2
+[2025-12-13 01:44:40 advbin2deepsign3pkl] (evaluate_stylus.py 168): INFO Computing eBS DS2 w2
+[2025-12-13 01:44:48 advbin2deepsign3pkl] (evaluate_stylus.py 206): INFO Computing eBS DS1 w1
+[2025-12-13 01:44:54 advbin2deepsign3pkl] (evaluate_stylus.py 243): INFO Computing eBS DS1 w2
+[2025-12-13 01:45:01 advbin2deepsign3pkl] (evaluate_stylus.py 277): INFO Computing eBS DS1 w3
+[2025-12-13 01:45:07 advbin2deepsign3pkl] (evaluate_stylus.py 311): INFO Computing eBS DS1 w4
+[2025-12-13 01:45:13 advbin2deepsign3pkl] (evaluate_stylus.py 346): INFO Computing eBS DS1 w5
+[2025-12-13 01:45:21 advbin2deepsign3pkl] (verify_stylus.py 75): INFO 4 templates
+[2025-12-13 01:45:21 advbin2deepsign3pkl] (verify_stylus.py 99): INFO For MCYT:
+[2025-12-13 01:45:21 advbin2deepsign3pkl] (verify_stylus.py 214): INFO Global threshold: 0.70455, Local threshold: 0.31048
+[2025-12-13 01:45:21 advbin2deepsign3pkl] (verify_stylus.py 226): INFO For BiosecurID:
+[2025-12-13 01:45:21 advbin2deepsign3pkl] (verify_stylus.py 337): INFO Global threshold: 0.75758, Local threshold: 0.15783
+[2025-12-13 01:45:21 advbin2deepsign3pkl] (verify_stylus.py 349): INFO For Biosecure DS2:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 461): INFO Global threshold: 1.73469, Local threshold: 0.58844
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 473): INFO For eBS DS2 w2:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 585): INFO Global threshold: 0.71429, Local threshold: 0.00000
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 591): INFO For eBS DS1 w1:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 702): INFO Global threshold: 0.95238, Local threshold: 0.00000
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 708): INFO For eBS DS1 w2:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 819): INFO Global threshold: 1.42857, Local threshold: 0.00000
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 825): INFO For eBS DS1 w3:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 936): INFO Global threshold: 0.71429, Local threshold: 0.00000
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 942): INFO For eBS DS1 w4:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 1054): INFO Global threshold: 0.95238, Local threshold: 0.00000
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 1060): INFO For eBS DS1 w5:
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 1171): INFO Global threshold: 2.14286, Local threshold: 0.00000
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 1177): INFO Overall EER under global threshold: 1.13181
+[2025-12-13 01:45:22 advbin2deepsign3pkl] (verify_stylus.py 1180): INFO Overall EER under user-specific threshold: 0.23069
+[2025-12-13 01:45:23 advbin2deepsign3pkl] (verify_stylus.py 78): INFO 1 template
+[2025-12-13 01:45:23 advbin2deepsign3pkl] (verify_stylus.py 99): INFO For MCYT:
+[2025-12-13 01:45:25 advbin2deepsign3pkl] (verify_stylus.py 214): INFO Global threshold: 1.66304, Local threshold: 0.54000
+[2025-12-13 01:45:25 advbin2deepsign3pkl] (verify_stylus.py 226): INFO For BiosecurID:
+[2025-12-13 01:45:26 advbin2deepsign3pkl] (verify_stylus.py 337): INFO Global threshold: 1.04167, Local threshold: 0.33144
+[2025-12-13 01:45:26 advbin2deepsign3pkl] (verify_stylus.py 349): INFO For Biosecure DS2:
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 461): INFO Global threshold: 2.80506, Local threshold: 1.02721
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 473): INFO For eBS DS2 w2:
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 585): INFO Global threshold: 2.55952, Local threshold: 1.78571
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 591): INFO For eBS DS1 w1:
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 702): INFO Global threshold: 2.44048, Local threshold: 0.59524
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 708): INFO For eBS DS1 w2:
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 819): INFO Global threshold: 2.20238, Local threshold: 0.00000
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 825): INFO For eBS DS1 w3:
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 936): INFO Global threshold: 1.66667, Local threshold: 0.11905
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 942): INFO For eBS DS1 w4:
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 1054): INFO Global threshold: 2.50000, Local threshold: 0.00000
+[2025-12-13 01:45:28 advbin2deepsign3pkl] (verify_stylus.py 1060): INFO For eBS DS1 w5:
+[2025-12-13 01:45:29 advbin2deepsign3pkl] (verify_stylus.py 1171): INFO Global threshold: 2.44048, Local threshold: 0.11905
+[2025-12-13 01:45:29 advbin2deepsign3pkl] (verify_stylus.py 1177): INFO Overall EER under global threshold: 1.99452
+[2025-12-13 01:45:29 advbin2deepsign3pkl] (verify_stylus.py 1180): INFO Overall EER under user-specific threshold: 0.57255
+[2025-12-13 01:45:30 advbin2deepsign3pkl] (evaluate_finger.py 31): INFO random forgery
+[2025-12-13 01:45:32 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 01:45:33 advbin2deepsign3pkl] (evaluate_finger.py 51): INFO Computing eBS DS1 w4, finger inputs
+[2025-12-13 01:45:38 advbin2deepsign3pkl] (evaluate_finger.py 88): INFO Computing eBS DS1 w5, finger inputs
+[2025-12-13 01:45:44 advbin2deepsign3pkl] (evaluate_finger.py 132): INFO Computing eBS DS2 w5, finger inputs
+[2025-12-13 01:45:49 advbin2deepsign3pkl] (evaluate_finger.py 169): INFO Computing eBS DS2 w6, finger inputs
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 68): INFO 4 templates
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 3.33333, Local threshold: 0.71429
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 324): INFO Global threshold: 3.57143, Local threshold: 0.00000
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 330): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 441): INFO Global threshold: 1.42857, Local threshold: 0.00000
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 447): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 558): INFO Global threshold: 1.42857, Local threshold: 0.47619
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 564): INFO Overall EER under global threshold: 2.38095
+[2025-12-13 01:45:55 advbin2deepsign3pkl] (verify_finger.py 567): INFO Overall EER under user-specific threshold: 0.29762
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 71): INFO 1 template
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 6.90476, Local threshold: 3.27381
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 324): INFO Global threshold: 6.17857, Local threshold: 2.26190
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 330): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 441): INFO Global threshold: 2.67857, Local threshold: 0.83333
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 447): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 558): INFO Global threshold: 1.48810, Local threshold: 0.53571
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 564): INFO Overall EER under global threshold: 4.63010
+[2025-12-13 01:45:57 advbin2deepsign3pkl] (verify_finger.py 567): INFO Overall EER under user-specific threshold: 1.72619
+[2025-12-13 17:10:03 advbin2deepsign3pkl] (evaluate_stylus.py 30): INFO skilled forgery
+[2025-12-13 17:10:03 advbin2deepsign3pkl] (evaluate_stylus.py 31): INFO epoch: 39
+[2025-12-13 17:10:06 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 17:10:08 advbin2deepsign3pkl] (evaluate_stylus.py 51): INFO Computing MCYT
+[2025-12-13 17:10:35 advbin2deepsign3pkl] (evaluate_stylus.py 86): INFO Computing BiosecurID
+[2025-12-13 17:11:02 advbin2deepsign3pkl] (evaluate_stylus.py 122): INFO Computing Biosecure DS2
+[2025-12-13 17:11:33 advbin2deepsign3pkl] (evaluate_stylus.py 163): INFO Computing eBS DS2 w2
+[2025-12-13 17:11:38 advbin2deepsign3pkl] (evaluate_stylus.py 200): INFO Computing eBS DS1 w1
+[2025-12-13 17:11:41 advbin2deepsign3pkl] (evaluate_stylus.py 235): INFO Computing eBS DS1 w2
+[2025-12-13 17:11:44 advbin2deepsign3pkl] (evaluate_stylus.py 268): INFO Computing eBS DS1 w3
+[2025-12-13 17:11:47 advbin2deepsign3pkl] (evaluate_stylus.py 300): INFO Computing eBS DS1 w4
+[2025-12-13 17:11:50 advbin2deepsign3pkl] (evaluate_stylus.py 333): INFO Computing eBS DS1 w5
+[2025-12-13 17:11:54 advbin2deepsign3pkl] (verify_stylus.py 72): INFO 4 templates
+[2025-12-13 17:11:54 advbin2deepsign3pkl] (verify_stylus.py 96): INFO For MCYT:
+[2025-12-13 17:11:54 advbin2deepsign3pkl] (verify_stylus.py 207): INFO Global threshold: 2.32609, Local threshold: 1.21267
+[2025-12-13 17:11:54 advbin2deepsign3pkl] (verify_stylus.py 219): INFO For BiosecurID:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 330): INFO Global threshold: 1.32576, Local threshold: 0.31566
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 342): INFO For Biosecure DS2:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 454): INFO Global threshold: 2.86607, Local threshold: 1.43027
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 466): INFO For eBS DS2 w2:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 578): INFO Global threshold: 0.71429, Local threshold: 0.00000
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 584): INFO For eBS DS1 w1:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 695): INFO Global threshold: 4.28571, Local threshold: 0.00000
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 701): INFO For eBS DS1 w2:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 812): INFO Global threshold: 3.80952, Local threshold: 0.00000
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 818): INFO For eBS DS1 w3:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 929): INFO Global threshold: 5.14286, Local threshold: 1.66667
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 935): INFO For eBS DS1 w4:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 1047): INFO Global threshold: 4.85714, Local threshold: 2.66667
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 1053): INFO For eBS DS1 w5:
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 1164): INFO Global threshold: 5.23810, Local threshold: 2.38095
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 1170): INFO Overall EER under global threshold: 2.60970
+[2025-12-13 17:11:55 advbin2deepsign3pkl] (verify_stylus.py 1173): INFO Overall EER under user-specific threshold: 1.02779
+[2025-12-13 17:11:57 advbin2deepsign3pkl] (verify_stylus.py 75): INFO 1 template
+[2025-12-13 17:11:57 advbin2deepsign3pkl] (verify_stylus.py 96): INFO For MCYT:
+[2025-12-13 17:11:58 advbin2deepsign3pkl] (verify_stylus.py 207): INFO Global threshold: 4.18629, Local threshold: 2.24499
+[2025-12-13 17:11:58 advbin2deepsign3pkl] (verify_stylus.py 219): INFO For BiosecurID:
+[2025-12-13 17:11:59 advbin2deepsign3pkl] (verify_stylus.py 330): INFO Global threshold: 2.05966, Local threshold: 0.66288
+[2025-12-13 17:11:59 advbin2deepsign3pkl] (verify_stylus.py 342): INFO For Biosecure DS2:
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 454): INFO Global threshold: 4.94823, Local threshold: 2.05306
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 466): INFO For eBS DS2 w2:
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 578): INFO Global threshold: 3.33333, Local threshold: 1.42857
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 584): INFO For eBS DS1 w1:
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 695): INFO Global threshold: 6.39286, Local threshold: 1.54762
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 701): INFO For eBS DS1 w2:
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 812): INFO Global threshold: 5.11905, Local threshold: 1.01190
+[2025-12-13 17:12:01 advbin2deepsign3pkl] (verify_stylus.py 818): INFO For eBS DS1 w3:
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 929): INFO Global threshold: 6.72619, Local threshold: 2.91667
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 935): INFO For eBS DS1 w4:
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 1047): INFO Global threshold: 7.89286, Local threshold: 3.03571
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 1053): INFO For eBS DS1 w5:
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 1164): INFO Global threshold: 6.54762, Local threshold: 1.84524
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 1170): INFO Overall EER under global threshold: 4.30748
+[2025-12-13 17:12:02 advbin2deepsign3pkl] (verify_stylus.py 1173): INFO Overall EER under user-specific threshold: 1.73871
+[2025-12-13 17:12:03 advbin2deepsign3pkl] (evaluate_finger.py 30): INFO skilled forgery
+[2025-12-13 17:12:06 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 17:12:06 advbin2deepsign3pkl] (evaluate_finger.py 50): INFO Computing eBS DS1 w4, finger inputs
+[2025-12-13 17:12:08 advbin2deepsign3pkl] (evaluate_finger.py 86): INFO Computing eBS DS1 w5, finger inputs
+[2025-12-13 17:12:11 advbin2deepsign3pkl] (evaluate_finger.py 129): INFO Computing eBS DS2 w5, finger inputs
+[2025-12-13 17:12:13 advbin2deepsign3pkl] (evaluate_finger.py 166): INFO Computing eBS DS2 w6, finger inputs
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 68): INFO 4 templates
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 11.90476, Local threshold: 8.09524
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 319): INFO Global threshold: 10.00000, Local threshold: 6.90476
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 325): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 436): INFO Global threshold: 2.14286, Local threshold: 1.42857
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 442): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 553): INFO Global threshold: 3.57143, Local threshold: 0.71429
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 559): INFO Overall EER under global threshold: 6.96429
+[2025-12-13 17:12:16 advbin2deepsign3pkl] (verify_finger.py 562): INFO Overall EER under user-specific threshold: 4.28571
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 71): INFO 1 template
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 16.63265, Local threshold: 10.29762
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 319): INFO Global threshold: 15.00000, Local threshold: 12.12075
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 325): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 436): INFO Global threshold: 5.95238, Local threshold: 1.92857
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 442): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 553): INFO Global threshold: 7.39286, Local threshold: 1.25000
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 559): INFO Overall EER under global threshold: 11.44133
+[2025-12-13 17:12:18 advbin2deepsign3pkl] (verify_finger.py 562): INFO Overall EER under user-specific threshold: 6.39923
+[2025-12-13 17:12:19 advbin2deepsign3pkl] (evaluate_stylus.py 30): INFO random forgery
+[2025-12-13 17:12:19 advbin2deepsign3pkl] (evaluate_stylus.py 31): INFO epoch: 39
+[2025-12-13 17:12:22 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 17:12:24 advbin2deepsign3pkl] (evaluate_stylus.py 51): INFO Computing MCYT
+[2025-12-13 17:13:18 advbin2deepsign3pkl] (evaluate_stylus.py 86): INFO Computing BiosecurID
+[2025-12-13 17:14:50 advbin2deepsign3pkl] (evaluate_stylus.py 122): INFO Computing Biosecure DS2
+[2025-12-13 17:16:23 advbin2deepsign3pkl] (evaluate_stylus.py 163): INFO Computing eBS DS2 w2
+[2025-12-13 17:16:31 advbin2deepsign3pkl] (evaluate_stylus.py 200): INFO Computing eBS DS1 w1
+[2025-12-13 17:16:37 advbin2deepsign3pkl] (evaluate_stylus.py 235): INFO Computing eBS DS1 w2
+[2025-12-13 17:16:44 advbin2deepsign3pkl] (evaluate_stylus.py 268): INFO Computing eBS DS1 w3
+[2025-12-13 17:16:50 advbin2deepsign3pkl] (evaluate_stylus.py 300): INFO Computing eBS DS1 w4
+[2025-12-13 17:16:56 advbin2deepsign3pkl] (evaluate_stylus.py 333): INFO Computing eBS DS1 w5
+[2025-12-13 17:17:04 advbin2deepsign3pkl] (verify_stylus.py 72): INFO 4 templates
+[2025-12-13 17:17:04 advbin2deepsign3pkl] (verify_stylus.py 96): INFO For MCYT:
+[2025-12-13 17:17:04 advbin2deepsign3pkl] (verify_stylus.py 207): INFO Global threshold: 0.70455, Local threshold: 0.31048
+[2025-12-13 17:17:04 advbin2deepsign3pkl] (verify_stylus.py 219): INFO For BiosecurID:
+[2025-12-13 17:17:04 advbin2deepsign3pkl] (verify_stylus.py 330): INFO Global threshold: 0.75758, Local threshold: 0.15783
+[2025-12-13 17:17:04 advbin2deepsign3pkl] (verify_stylus.py 342): INFO For Biosecure DS2:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 454): INFO Global threshold: 1.73469, Local threshold: 0.58844
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 466): INFO For eBS DS2 w2:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 578): INFO Global threshold: 0.71429, Local threshold: 0.00000
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 584): INFO For eBS DS1 w1:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 695): INFO Global threshold: 0.95238, Local threshold: 0.00000
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 701): INFO For eBS DS1 w2:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 812): INFO Global threshold: 1.42857, Local threshold: 0.00000
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 818): INFO For eBS DS1 w3:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 929): INFO Global threshold: 0.71429, Local threshold: 0.00000
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 935): INFO For eBS DS1 w4:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 1047): INFO Global threshold: 0.95238, Local threshold: 0.00000
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 1053): INFO For eBS DS1 w5:
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 1164): INFO Global threshold: 2.14286, Local threshold: 0.00000
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 1170): INFO Overall EER under global threshold: 1.13181
+[2025-12-13 17:17:05 advbin2deepsign3pkl] (verify_stylus.py 1173): INFO Overall EER under user-specific threshold: 0.23069
+[2025-12-13 17:17:06 advbin2deepsign3pkl] (verify_stylus.py 75): INFO 1 template
+[2025-12-13 17:17:06 advbin2deepsign3pkl] (verify_stylus.py 96): INFO For MCYT:
+[2025-12-13 17:17:08 advbin2deepsign3pkl] (verify_stylus.py 207): INFO Global threshold: 1.66304, Local threshold: 0.54000
+[2025-12-13 17:17:08 advbin2deepsign3pkl] (verify_stylus.py 219): INFO For BiosecurID:
+[2025-12-13 17:17:09 advbin2deepsign3pkl] (verify_stylus.py 330): INFO Global threshold: 1.04167, Local threshold: 0.33144
+[2025-12-13 17:17:09 advbin2deepsign3pkl] (verify_stylus.py 342): INFO For Biosecure DS2:
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 454): INFO Global threshold: 2.80506, Local threshold: 1.02721
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 466): INFO For eBS DS2 w2:
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 578): INFO Global threshold: 2.55952, Local threshold: 1.78571
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 584): INFO For eBS DS1 w1:
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 695): INFO Global threshold: 2.44048, Local threshold: 0.59524
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 701): INFO For eBS DS1 w2:
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 812): INFO Global threshold: 2.20238, Local threshold: 0.00000
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 818): INFO For eBS DS1 w3:
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 929): INFO Global threshold: 1.66667, Local threshold: 0.11905
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 935): INFO For eBS DS1 w4:
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 1047): INFO Global threshold: 2.50000, Local threshold: 0.00000
+[2025-12-13 17:17:11 advbin2deepsign3pkl] (verify_stylus.py 1053): INFO For eBS DS1 w5:
+[2025-12-13 17:17:12 advbin2deepsign3pkl] (verify_stylus.py 1164): INFO Global threshold: 2.44048, Local threshold: 0.11905
+[2025-12-13 17:17:12 advbin2deepsign3pkl] (verify_stylus.py 1170): INFO Overall EER under global threshold: 1.99452
+[2025-12-13 17:17:12 advbin2deepsign3pkl] (verify_stylus.py 1173): INFO Overall EER under user-specific threshold: 0.57255
+[2025-12-13 17:17:13 advbin2deepsign3pkl] (evaluate_finger.py 30): INFO random forgery
+[2025-12-13 17:17:15 advbin2deepsign3pkl] (utils.py 170): INFO mode: "test" ../20240709-003624-advbin2deepsign3pkl/ckpt-39-advbin2deepsign3pkl.pth successfully loaded.
+[2025-12-13 17:17:16 advbin2deepsign3pkl] (evaluate_finger.py 50): INFO Computing eBS DS1 w4, finger inputs
+[2025-12-13 17:17:21 advbin2deepsign3pkl] (evaluate_finger.py 86): INFO Computing eBS DS1 w5, finger inputs
+[2025-12-13 17:17:27 advbin2deepsign3pkl] (evaluate_finger.py 129): INFO Computing eBS DS2 w5, finger inputs
+[2025-12-13 17:17:32 advbin2deepsign3pkl] (evaluate_finger.py 166): INFO Computing eBS DS2 w6, finger inputs
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 68): INFO 4 templates
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 3.33333, Local threshold: 0.71429
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 319): INFO Global threshold: 3.57143, Local threshold: 0.00000
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 325): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 436): INFO Global threshold: 1.42857, Local threshold: 0.00000
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 442): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 553): INFO Global threshold: 1.42857, Local threshold: 0.47619
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 559): INFO Overall EER under global threshold: 2.38095
+[2025-12-13 17:17:38 advbin2deepsign3pkl] (verify_finger.py 562): INFO Overall EER under user-specific threshold: 0.29762
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 71): INFO 1 template
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 90): INFO For eBS DS1 w4, finger inputs:
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 202): INFO Global threshold: 6.90476, Local threshold: 3.27381
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 208): INFO For eBS DS1 w5, finger inputs:
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 319): INFO Global threshold: 6.17857, Local threshold: 2.26190
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 325): INFO For eBS DS2 w5, finger inputs:
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 436): INFO Global threshold: 2.67857, Local threshold: 0.83333
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 442): INFO For eBS DS2 w6, finger inputs:
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 553): INFO Global threshold: 1.48810, Local threshold: 0.53571
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 559): INFO Overall EER under global threshold: 4.63010
+[2025-12-13 17:17:40 advbin2deepsign3pkl] (verify_finger.py 562): INFO Overall EER under user-specific threshold: 1.72619
